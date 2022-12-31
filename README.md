@@ -8,5 +8,3 @@ In addition to the 5 repos listed at [github.com/zaz](https://github.com/zaz), t
 	<dt><a href="https://github.com/zaz/dijkstra">dijkstra</a></dt>
 		<dd>A 60-line library with an efficient algorithm to find shortest paths between nodes in a graph.</dd>
 </dl>
-
-I have many more repos, but few are likely to be of use to you.
