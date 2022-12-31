@@ -3,6 +3,8 @@ In addition to the 5 repos listed at [github.com/zaz](https://github.com/zaz), t
 <dl>
 	<dt><a href="https://github.com/zaz/equation_audio">equation_audio</a></dt>
 		<dd>Allows you to enter a formula for a wave and hear the wave played as audio. <a href="https://zaz.github.io/equation_audio/">https://zaz.github.io/equation_audio/</a></dd>
+	<dt><a href="https://github.com/zaz/cghack">cghack</a></dt>
+		<dd>Make the GitHub contributions graph show any pattern you want. </dd>
 	<dt><a href="https://github.com/zaz/form2email">form2email</a></dt>
 		<dd>A 120-line Express server to turn POSTed form data into an email. Great for static websites with contact forms!</dd>
 	<dt><a href="https://github.com/zaz/bloom-filter">bloom-filter</a></dt>
